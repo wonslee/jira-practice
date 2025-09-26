@@ -1,3 +1,5 @@
 # jira-practice
 
-hello
+hi - 원석
+
+
